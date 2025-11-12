@@ -1,0 +1,6 @@
+@GS2_MicroServices_HostAddress = http://localhost:5217
+
+GET {{GS2_MicroServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

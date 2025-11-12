@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3SIS_GS2\\GS2_MicroServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\gs2_microservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\gs2_microservices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GS2_MicroServices",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\GS2_MicroServices.csproj",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\GS2_MicroServices.csproj",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\GS2_MicroServices.csproj",
+              "RelativeToolTip": "GS2_MicroServices\\GS2_MicroServices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T22:53:42.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:52:07.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAController.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\IAController.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Controllers\\IAController.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\IAController.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Controllers\\IAController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:52:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Repository\\Class1.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\Class1.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:50:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Domain\\Class1.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\Class1.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:50:11.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
