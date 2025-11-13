@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\3SIS_GS2\\GS2_MicroServices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GS2_MicroServices\\Service\\CacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GS2_MicroServices\\Service\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GS2_MicroServices\\Service\\Service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\domain\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\domain\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\repository\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\repository\\promptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\repository\\ipromptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\repository\\ipromptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\controllers\\iacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\domain\\obj\\release\\net9.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\domain\\obj\\release\\net9.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GS2_MicroServices\\Repository\\Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|d:\\3sis_gs2\\gs2_microservices\\gs2_microservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC47E312-334B-419F-85E1-B4420815A6AB}|GS2_MicroServices\\GS2_MicroServices.csproj|solutionrelative:gs2_microservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\ICacheService.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Service\\ICacheService.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\ICacheService.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Service\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:40:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Service\\Service.csproj",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\Service.csproj",
+              "RelativeToolTip": "GS2_MicroServices\\Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T00:38:15.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\CacheService.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Service\\CacheService.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Service\\CacheService.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Service\\CacheService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:38:14.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\Prompt.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Domain\\Prompt.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\Prompt.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Domain\\Prompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:09:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAController.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\IAController.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Controllers\\IAController.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Controllers\\IAController.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Controllers\\IAController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:52:08.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPromptRepository.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\IPromptRepository.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Repository\\IPromptRepository.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\IPromptRepository.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Repository\\IPromptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:50:14.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromptRepository.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\PromptRepository.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Repository\\PromptRepository.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\PromptRepository.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Repository\\PromptRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:32:36.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Program.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Program.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Program.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:39:01.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\obj\\Release\\net9.0\\Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Domain\\obj\\Release\\net9.0\\Domain.AssemblyInfo.cs",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Domain\\obj\\Release\\net9.0\\Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "GS2_MicroServices\\Domain\\obj\\Release\\net9.0\\Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T00:14:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\Repository\\Repository.csproj",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\Repository\\Repository.csproj",
+              "RelativeToolTip": "GS2_MicroServices\\Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T00:00:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\appsettings.json",
+              "RelativeDocumentMoniker": "GS2_MicroServices\\appsettings.json",
+              "ToolTip": "D:\\3SIS_GS2\\GS2_MicroServices\\GS2_MicroServices\\appsettings.json",
+              "RelativeToolTip": "GS2_MicroServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T23:38:26.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

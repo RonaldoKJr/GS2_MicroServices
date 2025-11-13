@@ -1,0 +1,5 @@
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\Service\obj\Debug\net9.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\Service\obj\Debug\net9.0\Service.AssemblyInfoInputs.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\Service\obj\Debug\net9.0\Service.AssemblyInfo.cs
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\Service\obj\Debug\net9.0\Service.csproj.CoreCompileInputs.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\Service\obj\Debug\net9.0\Service.sourcelink.json

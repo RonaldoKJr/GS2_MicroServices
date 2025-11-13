@@ -1,0 +1,8 @@
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.csproj.AssemblyReference.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.AssemblyInfoInputs.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.AssemblyInfo.cs
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.csproj.CoreCompileInputs.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.MvcApplicationPartsAssemblyInfo.cs
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\3SIS_GS2\GS2_MicroServices\GS2_MicroServices\obj\Debug\net8.0\GS2_MicroServices.sourcelink.json
